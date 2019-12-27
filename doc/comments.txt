@@ -1,0 +1,25 @@
+ccnxmessages
+	T_PAD undefined
+	Organization-specific TLVs: why 24 bit PEN fields -- why not 32bit (32 bit boundary)?
+
+
+ccnxlabeledcontent
+	3.2 URI representation
+	    "Name Hexedecimal"? Shouldn't this be alphanumeric?
+
+	namesegment in hex presentation -- is there any limit for the value length (4 bytes)?
+
+----------
+	   The CCNx Name segment types are:
+
+   o  Name Segment: A generic name segment that includes arbitrary
+      octets.
+
+   o  Application Type N: An application may use application-specific
+      parameters, numbered as integers, where N is from 0 to a system-
+      specific maximum, not less than 255.  These are represented as
+      "App:1=value", for example.
+
+What about T_IPIP?
+--------------
+
