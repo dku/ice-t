@@ -1,32 +1,14 @@
-# ido
+# ICE-T
 
-FIXME: description
+Information-Centric Networking experimentation platform
 
 ## Installation
 
-Download from http://example.com/FIXME.
+Download from https://github.com/dku/ice-t
 
 ## Usage
 
-FIXME: explanation
-
-    $ java -jar ido-0.1.0-standalone.jar [args]
-
-## Options
-
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
+Use leiningen and project.clj
 
 ## License
 
